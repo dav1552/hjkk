@@ -1,2 +1,2 @@
 # hjkk
-For programming 
+For pre final year project 
